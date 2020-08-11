@@ -1,4 +1,4 @@
-<h1><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/samsung/161/penguin_1f427.png" width="30"/> **¡Hola! Gracias por visitarme.**<img src="https://i.pinimg.com/originals/c9/bb/a7/c9bba74f2ce4d014abec8fd49ffea89a.png" width="30"/> </h1>
+<h1><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/samsung/161/penguin_1f427.png" width="30"/> ¡Hola! Gracias por visitarme. <img src="https://i.pinimg.com/originals/c9/bb/a7/c9bba74f2ce4d014abec8fd49ffea89a.png" width="30"/> </h1>
 
 Soy Jose Luis Laura Pumaleque, de la ciudad de Arequipa-Perú <img src="https://i.pinimg.com/originals/5d/e9/b2/5de9b27b72163566084f3d1c90e745a6.jpg" width="30"/>.
 
