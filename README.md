@@ -20,7 +20,7 @@ href="https://www.linkedin.com/in/jose-luis-laura-pumaleque/" target="_blank"><i
 
 Apasionado por la ciencia de datos, economía del comportamiento y ambiental, además tengo ciertas preferencias por las finanzas, específicamente inversiones y gestión de riesgos.
 
-Tengo un grande interés por la ciencia de datos, es por ello que actualmente pertenesco a un proyecto denominado [manos a la data](https://github.com/manosaladata) que lidera [Arturo chain](https://github.com/arturochian) para la comunidad opensource de Perú.
+Tengo un grande interés por la ciencia de datos, es por ello que actualmente pertenesco a un proyecto denominado [manos a la data](https://github.com/manosaladata) que lidera [Arturo chian](https://github.com/arturochian) para la comunidad opensource de Perú.
 
 <div/>
 
