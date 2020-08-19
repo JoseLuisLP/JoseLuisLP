@@ -21,10 +21,11 @@ Apasionado por la ciencia de datos, economía del comportamiento y ambiental, ad
 
 Tengo un grande interés por la ciencia de datos, es por ello que actualmente pertenesco a un proyecto denominado [manos a la data](https://github.com/manosaladata) que lidera [Arturo chian](https://github.com/arturochian) para la comunidad opensource de Perú.
 
-<div/>
+</div>
 
 
 Gracias por tu visita, ¡Nos vemos mas adelante! ❤️.
+
 <div align="center">
 
 <h2><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/230/penguin_1f427.png" width="45"/> </h2>
