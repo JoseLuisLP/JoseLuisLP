@@ -2,7 +2,7 @@
 
 Soy Jose Luis Laura Pumaleque, de la ciudad de Arequipa-Perú <img src="https://i.pinimg.com/originals/5d/e9/b2/5de9b27b72163566084f3d1c90e745a6.jpg" width="30"/>.
 
-- <img src="https://images.vexels.com/media/users/3/166359/isolated/preview/ea28125d2f7eb8513f8c762ff7fd6d3e-sombrero-de-graduaci--n-y-silueta-de-diploma-by-vexels.png" width="25"/> Egresado de Economía por la Universidad Nacional de San Agustín [(UNSA)](https://www.unsa.edu.pe/).
+- <img src="https://images.vexels.com/media/users/3/166359/isolated/preview/ea28125d2f7eb8513f8c762ff7fd6d3e-sombrero-de-graduaci--n-y-silueta-de-diploma-by-vexels.png" width="25"/> Bachiller en Economía por la Universidad Nacional de San Agustín [(UNSA)](https://www.unsa.edu.pe/).
 
 - <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=210x1024:format=jpg/path/s02ea4150d20a8396/image/i815f95a8f207efb8/version/1336505385/image.jpg" width="25"/> Becario por la Red Peruana de Universidades [(RPU)](http://rpu.edu.pe/)- [PUCP](https://www.pucp.edu.pe/).
 También puedes encontrarme en:
